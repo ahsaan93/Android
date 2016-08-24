@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QANTAS AIRWAYS</string>
+    <string name="business_app_description"><p>Founded in the Queensland outback in 1920, Qantas has grown to be Australias largest domestic and international airline. It provides travel services 24/7.</p></string>
+    <string name="business_name">QANTAS AIRWAYS</string>
+    <string name="business_content">Our Company</string>
+    <string name="business_working_hours">24 / 7</string>
+    <string name="business_contact">+92-21-35112058</string>
+    <string name="business_email">info@qantasairways.com</string>
+    <string name="business_web">www.qantasairways.com</string>
+    <string name="business_address">Office # 3 ground floor, CDC building Shahr-e-Faisal Karachi.</string>
+</resources>
