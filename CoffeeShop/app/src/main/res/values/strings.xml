@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="editText_name">Enter you name</string>
+    <string name="coffee_rate">5</string>
+    <string name="whippedCream_rate">1</string>
+    <string name="choclate_rate">2</string>
+    <string name="shop_name">The Flipano Coffee Center</string>
+</resources>
